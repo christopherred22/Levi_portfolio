@@ -1,0 +1,10 @@
+# Ignorar uploads, upgrade y cache
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/cache/
+
+# Ignorar configuración local
+wp-config.php
+
+# Ignorar archivos de log
+*.log

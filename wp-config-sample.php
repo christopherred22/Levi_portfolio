@@ -88,6 +88,8 @@ $table_prefix = 'wp_';
 define( 'WP_DEBUG', false );
 
 /* Add any custom values between this line and the "stop editing" line. */
+define('WP_HOME', 'http://localhost:8080/portfolio/Levi_portfolio');
+define('WP_SITEURL', 'http://localhost:8080/portfolio/Levi_portfolio');
 
 
 
